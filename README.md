@@ -11,6 +11,7 @@ Data Science tools used in this course:
   - Numpy
   - Scikitlearn
 
+Topics:
 - Supervised Learning
   - Model Building and Error Analysis
   - Linear Regression
