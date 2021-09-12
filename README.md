@@ -16,8 +16,8 @@ Data Science tools used in this course:
   - [Numpy](https://numpy.org/doc/stable/)
   - [scikit-learn](https://scikit-learn.org/stable/user_guide.html)
 
-The topics in this course can be loosely organized as follows: 
-![image](https://user-images.githubusercontent.com/89811204/132994871-3f8f49b0-1ae4-43c1-850f-49b6dfd25dbb.png)
+The topics in this course primarily fall into 3 categories: 
+![image](https://user-images.githubusercontent.com/89811204/132995084-efa2c299-a6e9-4f38-ab14-26ef970736bc.png)
 
 Topics List:
 - [Supervised Learning](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning)
