@@ -1,5 +1,8 @@
 # K-Means Clustering Algorithm
 
+ch 9
+https://github.com/ageron/handson-ml2/blob/master/09_unsupervised_learning.ipynb
+
 ![image](https://user-images.githubusercontent.com/89811204/132998743-c4e77461-5a13-4670-b59d-40d26ee91033.png)
 
 ## What is K-Means Clustering?
