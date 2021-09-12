@@ -30,7 +30,7 @@ Topics:
   - The REINFORCE Algorithm
 
 ## Instructor
-- Randy Davila, PhD
+Randy Davila, PhD
 - Adjunct Faculty
 - Department of Computational and Applied Mathematics
 - 6100 Main St. Houston, TX 77005
