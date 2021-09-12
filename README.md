@@ -13,7 +13,7 @@ Data Science tools used in this course:
   - Scikitlearn
 
 Topics:
-- [Supervised Learning] (https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning)
+- [Supervised Learning](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning)
   - Model Building and Error Analysis
   - Linear Regression
   - Gradient Descent
