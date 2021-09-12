@@ -14,13 +14,13 @@ Data Science tools used in this course:
 
 Topics:
 - [Supervised Learning](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning)
-  - [Model Building and Error Analysis](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/1-%20model%20building%20and%20error%20analysis)
+  - [Model Building and Error Analysis](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/model%20building%20and%20error%20analysis)
   - [Linear Regression](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/2-%20nearest%20neighbors)
   - [Gradient Descent](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/gradient%20descent)
   - [Logistic Regression](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/logistic%20regression)
   - [Neural Nets](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/neural%20nets)
   - [Support Vector Machines](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/support%20vector%20machines)
-  - [Nearest Neighbors](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/2-%20nearest%20neighbors)
+  - [Nearest Neighbors](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/nearest%20neighbors)
   - [Decision/Regression Trees](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/decision-regression%20trees)
   - [Ensemble Learning](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/ensemble%20learning)
 - [Unsupervised Learning](https://github.com/Madison-Bunting/INDE-577/tree/main/unsupervised%20learning)
