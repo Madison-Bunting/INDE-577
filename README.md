@@ -13,21 +13,21 @@ Common python data science packages:
 - Numpy
 - Scikitlearn
 
-###Supervised Learning
-- Model Building and Error Analysis
-- Linear Regression
-- Gradient Descent
-- Logistic Regression
-- Neural Nets
-- Support Vecotr Machines
-- Nearest Neighbors
-- Decision/Regression Trees
-- Ensemble Learning
-###Unsupervised Learning
-- Means Clustering
-- Principle Component Analysis
-Reinforcement Learning
-- The REINFORCE Algorithm
+- Supervised Learning
+  - Model Building and Error Analysis
+  - Linear Regression
+  - Gradient Descent
+  - Logistic Regression
+  - Neural Nets
+  - Support Vecotr Machines
+  - Nearest Neighbors
+  - Decision/Regression Trees
+  - Ensemble Learning
+- Unsupervised Learning
+  - Means Clustering
+  - Principle Component Analysis
+- Reinforcement Learning
+  - The REINFORCE Algorithm
 
 ## Instructor
 Randy Davila
