@@ -1,2 +1,3 @@
-# INDE-577
-This repository covers a graduate-level industrial engineering course on the fundamentals of data science and machine learning
+# Supervised Learning
+In Supervised learning, we train the machine using data which is well "labeled," meaning some data is already tagged with the correct answer. It can be compared to learning that takes place in the presence of a supervisor or teacher.
+A supervised learning algorithm learns from labeled training data and helps the user predict outcomes for unforeseen data. Successfully building, scaling, and deploying accurate supervised machine learning data science models takes time and technical expertise from a team of highly skilled data scientists. Moreover, data scientists must rebuild models to make sure the insights remain true until the data changes. 
