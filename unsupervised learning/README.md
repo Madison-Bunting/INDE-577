@@ -1,5 +1,8 @@
 # Unsupervised Learning
 
+ch 9
+https://github.com/ageron/handson-ml2/blob/master/09_unsupervised_learning.ipynb
+
 ![image](https://user-images.githubusercontent.com/89811204/132997444-5ef28bd9-c01b-4d7e-b0f4-3c74b87dfae2.png)
 
 Unsupervised learning involves finding structures and relationships from inputs, and is helpful when we have unlabeled data or aren't sure which outputs are meaningful. There is a set of data that is **unlabeled** to learn from, with the goal of identifying patterns in that data. The result of an unsupervised learning model is to place observations into 1) specific clusters, or 2) to create rules to identify associations between variables. This technique allows you to perform more complex processing tasks compared to supervised learning, though it can be more unpredictable compare with other deep learning and reinforcement learning methods. 
