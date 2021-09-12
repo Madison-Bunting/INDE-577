@@ -1,7 +1,12 @@
 # INDE 577 -- Data Science and Machine Learning
 This repository covers a graduate-level industrial engineering course on the fundamentals of data science and machine learning. 
 
-Machine Learning is a broad field with many applications (a fraction of which are visualized below).
+What can machine learning be used for?
+- personalizing experiences: better recommendations, search results, notifications, and ads
+- identify anomalies: detecting fraud, spam, and hate speech
+- create means of interaction: chatbot natural language processing and image recognition
+- provide insights: understanding different ways analytics can be grouped and evaluating features
+- prepare content: making predictions about future behavior to preload content and reduce wait times
 
 ![image](https://user-images.githubusercontent.com/89811204/132994733-3940c6b9-ffca-4a41-bae6-e9418484c15b.png)
 
