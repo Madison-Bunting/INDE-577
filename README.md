@@ -1,5 +1,7 @@
 # INDE 577 -- Data Science and Machine Learning
-This repository covers a graduate-level industrial engineering course on the fundamentals of data science and machine learning. Machine Learning is a broad field with many applications (a fraction of which are visualized below).
+This repository covers a graduate-level industrial engineering course on the fundamentals of data science and machine learning. 
+
+Machine Learning is a broad field with many applications (a fraction of which are visualized below).
 
 ![image](https://user-images.githubusercontent.com/89811204/132994733-3940c6b9-ffca-4a41-bae6-e9418484c15b.png)
 
@@ -14,7 +16,10 @@ Data Science tools used in this course:
   - [Numpy](https://numpy.org/doc/stable/)
   - [scikit-learn](https://scikit-learn.org/stable/user_guide.html)
 
-Topics:
+The topics in this course can be loosely organized as follows: 
+![image](https://user-images.githubusercontent.com/89811204/132994871-3f8f49b0-1ae4-43c1-850f-49b6dfd25dbb.png)
+
+Topics List:
 - [Supervised Learning](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning)
   - [Model Building and Error Analysis](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/model%20building%20and%20error%20analysis)
   - [Linear Regression](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/2-%20nearest%20neighbors)
