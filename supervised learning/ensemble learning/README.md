@@ -1,1 +1,5 @@
-# INDE-577
+# Ensemble Learning
+
+Ch 7
+https://github.com/ageron/handson-ml2/blob/master/07_ensemble_learning_and_random_forests.ipynb
+https://scikit-learn.org/stable/modules/ensemble.html
