@@ -1,7 +1,5 @@
 # Unsupervised Learning
 
-ch 9
-https://github.com/ageron/handson-ml2/blob/master/09_unsupervised_learning.ipynb
 
 ![image](https://user-images.githubusercontent.com/89811204/132997444-5ef28bd9-c01b-4d7e-b0f4-3c74b87dfae2.png)
 
