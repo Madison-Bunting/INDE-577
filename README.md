@@ -1,6 +1,8 @@
 # INDE 577 -- Data Science and Machine Learning
 This repository covers a graduate-level industrial engineering course on the fundamentals of data science and machine learning
 
+![image](https://user-images.githubusercontent.com/89811204/132994496-b6ce4814-25db-423d-a5cb-1c360c952b06.png)
+
 ## Course Description
 Fundamentals of data science and machine learning during the Fall 2021 semester at Rice University. Topics include: introduction to scikit-learn, Keras and tensorflow2, linear and logistic regression, clustering, support vector machines, random forest trees, neural networks, deep learning, natural language processing. Recommended Prerequisite(s): Three semesters of calculus. A background in some programming language would be extremely useful.
 
