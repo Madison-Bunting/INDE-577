@@ -1,5 +1,5 @@
 # INDE 577 -- Data Science and Machine Learning
-This repository covers a graduate-level industrial engineering course on the fundamentals of data science and machine learning
+This repository covers a graduate-level industrial engineering course on the fundamentals of data science and machine learning. Machine Learning is a broad field with many applications (a fraction of which are visualized below).
 
 ![image](https://user-images.githubusercontent.com/89811204/132994733-3940c6b9-ffca-4a41-bae6-e9418484c15b.png)
 
