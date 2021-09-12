@@ -1,5 +1,7 @@
 # Model Building and Error Analysis
 
+lecture 1?
+
 There are a few things that need to happen before we can start building the model:
 
 Step 1: Frame the problem
