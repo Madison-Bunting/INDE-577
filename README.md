@@ -7,11 +7,9 @@ Fundamentals of data science and machine learning. Topics include: introduction 
 Data Science tools used in this course:
 - Python version 3.6 or higher
 - Jupyter notebooks
-
-Common python data science packages:
-- Pandas
-- Numpy
-- Scikitlearn
+  - Pandas
+  - Numpy
+  - Scikitlearn
 
 - Supervised Learning
   - Model Building and Error Analysis
