@@ -30,6 +30,8 @@ Topics:
   - The REINFORCE Algorithm
 
 ## Instructor
-Randy Davila
-
-Email: rrd6@rice.edu
+- Randy Davila, PhD
+- Adjunct Faculty
+- Department of Computational and Applied Mathematics
+- 6100 Main St. Houston, TX 77005
+- Email: rrd6@rice.edu
