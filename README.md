@@ -8,9 +8,9 @@ Files in this repository are Jupyter Notebook projects demonstrating machine lea
 
 Data Science tools used in this course:
 - Python version 3.6 or higher
-  - Pandas
-  - Numpy
-  - Scikitlearn
+  - [Pandas](https://pandas.pydata.org/docs/user_guide/index.html)
+  - [Numpy](https://numpy.org/doc/stable/)
+  - [scikit-learn](https://scikit-learn.org/stable/user_guide.html)
 
 Topics:
 - [Supervised Learning](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning)
