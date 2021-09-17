@@ -1,6 +1,7 @@
 # Supervised Learning
 
 python machine learning pg 32
+https://github.com/rasbt/python-machine-learning-book-3rd-edition/blob/master/ch03/ch03.ipynb
 
 ![image](https://user-images.githubusercontent.com/89811204/132995268-50b93ca8-e955-4766-b174-fb58c54feb9a.png)
 
