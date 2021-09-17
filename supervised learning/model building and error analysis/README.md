@@ -23,3 +23,4 @@ Step 3: Select a performance measure
 Step 4: Check Assumptions
 
 Now you are ready to start coding! Check out ---- this page ---- for sample code
+ch 2 intro to statistical machine learning
