@@ -2,6 +2,7 @@
 
 ch 18
 https://github.com/ageron/handson-ml2/blob/master/18_reinforcement_learning.ipynb
+python machine learning pg 35
 
 ![image](https://user-images.githubusercontent.com/89811204/132997613-982173db-9d8b-4470-9a39-5e7dd7878197.png)
 
