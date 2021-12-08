@@ -29,22 +29,22 @@ The topics in this course primarily fall into 3 categories:
 
 Topics List:
 - [Supervised Learning](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning)
-  - [Linear Regression](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/2-%20nearest%20neighbors)
-  - [Gradient Descent](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/gradient%20descent)
-  - [Logistic Regression](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/logistic%20regression)
-  - [Perceptron]
-  - [Multilayer Perceptron]
-  - [Neural Nets](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/neural%20nets)
-  - [Support Vector Machines](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/support%20vector%20machines)
-  - [Nearest Neighbors](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/nearest%20neighbors)
-  - [Decision/Regression Trees](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/decision-regression%20trees)
-  - [Ensemble Learning](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/ensemble%20learning)
+  - [Linear Regression](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/1-%20linear%20regression)
+  - [Gradient Descent](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/2%20-%20gradient%20descent)
+  - [Logistic Regression](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/3%20-%20logistic%20regression)
+  - [Perceptron](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/4%20-%20perceptron)
+  - [Multilayer Perceptron](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/5%20-%20multilayer%20perceptron)
+  - [Neural Nets](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/6%20-%20neural%20nets)
+  - [Nearest Neighbors](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/7%20-%20nearest%20neighbors)
+  - [Support Vector Machines](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/8%20-%20support%20vector%20machines)
+  - [Decision/Regression Trees](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/9%20-%20decision-regression%20trees)
+  - [Ensemble Learning](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/10%20-%20ensemble%20learning)
 - [Unsupervised Learning](https://github.com/Madison-Bunting/INDE-577/tree/main/unsupervised%20learning)
-  - [K-Means Clustering](https://github.com/Madison-Bunting/INDE-577/tree/main/unsupervised%20learning/means%20clustering)
-  - [Principle Component Analysis](https://github.com/Madison-Bunting/INDE-577/tree/main/unsupervised%20learning/principle%20component%20analysis)
+  - [K-Means Clustering](https://github.com/Madison-Bunting/INDE-577/tree/main/unsupervised%20learning/1%20-%20means%20clustering)
+  - [Principle Component Analysis](https://github.com/Madison-Bunting/INDE-577/tree/main/unsupervised%20learning/2%20-%20principle%20component%20analysis)
 - [Reinforcement Learning](https://github.com/Madison-Bunting/INDE-577/tree/main/reinforcement%20learning/REINFORCE)
-  - [Q-Learning]
-  - [Graph Theory]
+  - [Q-Learning](https://github.com/Madison-Bunting/INDE-577/tree/main/reinforcement%20learning/1%20-%20q-learning)
+  - [Graph Theory](https://github.com/Madison-Bunting/INDE-577/tree/main/reinforcement%20learning/2%20-%20graph%20theory)
 
 ## Instructor
 Randy Davila, PhD
