@@ -17,5 +17,5 @@ Types of Algorithms:
   - e.g. analyzing supermarket data and finding that people who buy bbq sauce and potato chips tend to also buy steak
 
 List of unsupervised learning algorithms in this repository:
-- [Means Clustering](https://github.com/Madison-Bunting/INDE-577/tree/main/unsupervised%20learning/means%20clustering)
-- [Principle Component Analysis](https://github.com/Madison-Bunting/INDE-577/tree/main/unsupervised%20learning/principle%20component%20analysis)
+  - [K-Means Clustering](https://github.com/Madison-Bunting/INDE-577/tree/main/unsupervised%20learning/1%20-%20means%20clustering)
+  - [Principle Component Analysis](https://github.com/Madison-Bunting/INDE-577/tree/main/unsupervised%20learning/2%20-%20principle%20component%20analysis)
