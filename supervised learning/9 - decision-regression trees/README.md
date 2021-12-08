@@ -13,3 +13,5 @@ https://www.youtube.com/watch?v=UhY5vPfQIrA&list=PLM8wYQRetTxAl5FpMIJCcJbfZjSB0I
 https://www.youtube.com/watch?v=P2ZB8c5Ha1Q&list=PLM8wYQRetTxAl5FpMIJCcJbfZjSB0IeC_&index=4
 https://www.youtube.com/watch?v=v6VJ2RO66Ag&list=PLM8wYQRetTxAl5FpMIJCcJbfZjSB0IeC_&index=5
 https://www.youtube.com/watch?v=Dr7lbdgzpWM
+
+http://localhost:8888/notebooks/OneDrive/Documents/Rice/Fall%202021/INDE%20577/Decision_Trees_Fall_2021.ipynb
