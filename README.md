@@ -42,7 +42,7 @@ Topics List:
 - [Unsupervised Learning](https://github.com/Madison-Bunting/INDE-577/tree/main/unsupervised%20learning)
   - [K-Means Clustering](https://github.com/Madison-Bunting/INDE-577/tree/main/unsupervised%20learning/1%20-%20means%20clustering)
   - [Principle Component Analysis](https://github.com/Madison-Bunting/INDE-577/tree/main/unsupervised%20learning/2%20-%20principle%20component%20analysis)
-- [Reinforcement Learning](https://github.com/Madison-Bunting/INDE-577/tree/main/reinforcement%20learning/REINFORCE)
+- [Reinforcement Learning](https://github.com/Madison-Bunting/INDE-577/tree/main/reinforcement%20learning)
   - [Q-Learning](https://github.com/Madison-Bunting/INDE-577/tree/main/reinforcement%20learning/1%20-%20q-learning)
   - [Graph Theory](https://github.com/Madison-Bunting/INDE-577/tree/main/reinforcement%20learning/2%20-%20graph%20theory)
 
