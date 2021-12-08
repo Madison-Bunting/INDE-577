@@ -6,3 +6,6 @@ https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
 
 Commonly used for classification
 can output a value that corresponds to the probability of belonging to a given class (e.g. 20% chance of being spam)
+
+intro to statistical machine learning ch 4.3
+python machine learning pg 88 in pdf
