@@ -12,5 +12,5 @@ Reinforcement learning doesn't use an existing dataset. Instead, we create a lea
 e.g. robots learning to walk, DeepMind's AlphaGo program to play Go, playing Dota, or playing Mario, with rewards for collecting coins and a penalty for walking into a Goomba
 
 List of reinforcement algorithms in this repository:
-- []()
-
+  - [Q-Learning](https://github.com/Madison-Bunting/INDE-577/tree/main/reinforcement%20learning/1%20-%20q-learning)
+  - [Graph Theory](https://github.com/Madison-Bunting/INDE-577/tree/main/reinforcement%20learning/2%20-%20graph%20theory)
