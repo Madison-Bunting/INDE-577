@@ -5,3 +5,4 @@ https://github.com/ageron/handson-ml2/blob/master/07_ensemble_learning_and_rando
 https://scikit-learn.org/stable/modules/ensemble.html
 python machine learning ch 7
 https://github.com/rasbt/python-machine-learning-book-3rd-edition/tree/master/ch07
+https://www.geeksforgeeks.org/random-forest-regression-in-python/
