@@ -34,8 +34,7 @@ Topics List:
   - [Logistic Regression](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/3%20-%20logistic%20regression)
   - [Perceptron](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/4%20-%20perceptron)
   - [Multilayer Perceptron](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/5%20-%20multilayer%20perceptron)
-  - [Neural Nets](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/6%20-%20neural%20nets)
-  - [Nearest Neighbors](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/7%20-%20nearest%20neighbors)
+  - [K Nearest Neighbors](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/7%20-%20nearest%20neighbors)
   - [Support Vector Machines](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/8%20-%20support%20vector%20machines)
   - [Decision/Regression Trees](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/9%20-%20decision-regression%20trees)
   - [Ensemble Learning](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/10%20-%20ensemble%20learning)
@@ -52,3 +51,10 @@ Randy Davila, PhD
 - Department of Computational and Applied Mathematics
 - 6100 Main St. Houston, TX 77005
 - Email: rrd6@rice.edu
+
+## Further Reading
+- [Hands-On Machine Learning with Scikit-learn, Keras, and Tensorflow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
+- [An Introduction to Statistical Learning: with Applications in R](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370)
+- [Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence](https://www.amazon.com/Deep-Learning-Illustrated-Intelligence-Addison-Wesley/dp/0135116694)
+- [Python Basics: A Practical Introduction to Python3](https://www.amazon.com/Python-Basics-Practical-Introduction/dp/1775093328)
+- [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939)
