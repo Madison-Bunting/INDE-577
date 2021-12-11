@@ -51,3 +51,10 @@ Randy Davila, PhD
 - Department of Computational and Applied Mathematics
 - 6100 Main St. Houston, TX 77005
 - Email: rrd6@rice.edu
+
+## Further Reading
+- [Hands-On Machine Learning with Scikit-learn, Keras, and Tensorflow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
+- [An Introduction to Statistical Learning: with Applications in R](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370)
+- [Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence](Deep Learning Illustrated A Visual, Interactive Guide to Artificial Intelligence by Jon Krohn Grant Beyleveld Aglae Bassens (z-lib.org))
+- [Python Basics: A Practical Introduction to Python3](https://www.amazon.com/Python-Basics-Practical-Introduction/dp/1775093328)
+- [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939)
