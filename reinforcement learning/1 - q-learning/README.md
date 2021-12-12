@@ -14,3 +14,6 @@ e.g. robots learning to walk, DeepMind's AlphaGo program to play Go, playing Dot
 List of reinforcement algorithms in this repository:
 - []()
 
+
+https://www.youtube.com/watch?v=wVXXLLT6srY
+https://www.youtube.com/watch?v=__t2XRxXGxI&t=19s
