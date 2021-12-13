@@ -31,3 +31,5 @@ Common algorithms are: Q-Learning, SARSA, DQN, DDPG, REINFORCE
 List of reinforcement learning in this repository:
   - [Q-Learning algorithm](https://github.com/Madison-Bunting/INDE-577/tree/main/reinforcement%20learning/1%20-%20q-learning)
   - [Graph Theory](https://github.com/Madison-Bunting/INDE-577/tree/main/reinforcement%20learning/2%20-%20graph%20theory) - this is not an explicit "algorithm" of reinforcement learning. Rather, this is an area of new development and overlap between a mathematical field and data science
+
+For more information [this video](https://www.youtube.com/watch?v=wVXXLLT6srY) provides a more detailed explanation.
