@@ -1,7 +1,4 @@
 # Graph Theory
-http://localhost:8888/notebooks/OneDrive/Documents/Rice/Fall%202021/INDE%20577/Network%20Analysis/Introduction_to_NetworkX.ipynb
-http://localhost:8888/notebooks/OneDrive/Documents/Rice/Fall%202021/INDE%20577/Network%20Analysis/NetworkX_Neighbors_and_Incident_Edges.ipynb
-http://localhost:8888/notebooks/OneDrive/Documents/Rice/Fall%202021/INDE%20577/Network%20Analysis/NetworkX_Neighbors_and_Incident_Edges.ipynb
 
 **Graphs**, in the context of graph theory, are visual representations *relationships* rather than values or statistics. As a primer, a history lesson:
 
