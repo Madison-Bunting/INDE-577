@@ -32,4 +32,8 @@ List of reinforcement learning in this repository:
   - [Q-Learning algorithm](https://github.com/Madison-Bunting/INDE-577/tree/main/reinforcement%20learning/1%20-%20q-learning)
   - [Graph Theory](https://github.com/Madison-Bunting/INDE-577/tree/main/reinforcement%20learning/2%20-%20graph%20theory) - this is not an explicit "algorithm" of reinforcement learning. Rather, this is an area of new development and overlap between a mathematical field and data science
 
-For more information [this video](https://www.youtube.com/watch?v=wVXXLLT6srY) provides a more detailed explanation.
+If you are interested in further learning [this video](https://www.youtube.com/watch?v=wVXXLLT6srY) provides a more detailed explanation.
+
+The notebooks in this folder are in the context of HR analyltics. For more information about the use of reinforcement learning in HR, you can look at the articles below:
+- https://arxiv.org/pdf/2012.00583.pdf
+- https://medium.com/geekculture/reinforcement-machine-learning-the-next-big-step-for-hr-ccc3ea908bd7
