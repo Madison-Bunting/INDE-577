@@ -11,7 +11,6 @@ Reinforcement learning doesn't use an existing dataset. Instead, the algorithm l
 
 To do this, we create a learning system, called an **agent**, that can collect its own data through trial-and-error in an **environment** in which the agent makes observations, selects and perform actions, and is reinforced with a **reward** (positive) or **penalty** (negative). It then determines the best strategy, called a **policy** to maximize rewards over time that defines which actions the agent should choose in a given situation.
 
-![image](https://editor.analyticsvidhya.com/uploads/229274.jpg)
 Common vocabulary in reinforcement learning:
 - Agent: sole decision-maker and learner
 - Environment: physical world in which the agent learns and decides actions to perform
@@ -22,6 +21,7 @@ Common vocabulary in reinforcement learning:
 - Value function: cumulative reward as the policy is executed
 - Model: the agent maps state-action pairs over a probability distribution for each state (not included in every reinforcement learning agent)
 
+![image](https://editor.analyticsvidhya.com/uploads/229274.jpg)
 goal: find a suitable action model that increases total cumulative reward
 steps:
 1) Create the environment (including actions and states)
