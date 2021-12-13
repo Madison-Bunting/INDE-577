@@ -24,4 +24,4 @@ There are different strategies for how the robot can select an action, but let's
 
 ![image](https://cdn-media-1.freecodecamp.org/images/TnN7ys7VGKoDszzv3WDnr5H8txOj3KKQ0G8o)
 
-This explanation was based on [this article](https://www.freecodecamp.org/news/an-introduction-to-q-learning-reinforcement-learning-14ac0b4493cc/). For more information [this video](https://www.youtube.com/watch?v=__t2XRxXGxI&t=19s) provides a more detailed explantion.
+This explanation was based on [this article](https://www.freecodecamp.org/news/an-introduction-to-q-learning-reinforcement-learning-14ac0b4493cc/). For more information, [this video](https://www.youtube.com/watch?v=__t2XRxXGxI&t=19s) provides a more detailed explantion.
