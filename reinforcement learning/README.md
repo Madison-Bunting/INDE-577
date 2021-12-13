@@ -13,7 +13,7 @@ To do this, we create a learning system, called an **agent**, that can collect i
 
 Common vocabulary in reinforcement learning:
 - Agent: sole decision-maker and learner
-- Environment: physical world in which the agent learns and decides actions to perform
+- Environment: physical world in which the agent learns and decides actions to perform (you can see a list of several different kinds of environments [here](https://medium.com/@mauriciofadelargerich/reinforcement-learning-environments-cff767bc241f))
 - Action: a list of outcomes/actions the agent can decide to take
 - State: the current situation/setting of the agent in the environment
 - Reward: for each action the agent selects, the environment issues feedback in the form of a reward (it's usually just a scalar value)
