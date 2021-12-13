@@ -59,7 +59,7 @@ or
 
 - (Weighted) Adjacency Matrix (A): also made up of 0 and 1 unless otherwise weighted or labeled. Thus, undirected graphs are symmetrical along their diagonals, as shown below. If graphs are weighted, the value of the weights replaces the 1s in the matrix. 
 
-![image](https://miro.medium.com/max/618/1*NZyJI_-uHKZ4PUj_LX6SFQ.gif)
+![image](https://user-images.githubusercontent.com/89811204/145887037-1f58aa47-df13-46f4-92be-07af65ffb3d3.png)
 
 - Degree matrix (D): the number of degrees of a node is the number of edges attached to it. When in matrix form this means the value of each diagonal in the adjacency matrix is the degree of its corresponding node
 
@@ -67,7 +67,7 @@ or
 
 Graphs can also have fun names!
 
-![image](https://mathworld.wolfram.com/images/eps-gif/k-CyclicGraphs_800.gif)
+![image](https://user-images.githubusercontent.com/89811204/145886971-ec9a068c-be7d-4a1c-9640-1480608aeb0c.png) 
 
 Graph theory is particularly useful in developing Geometric Deep Learning models. Because the [Graph Theory notebook](https://github.com/Madison-Bunting/INDE-577/blob/main/reinforcement%20learning/2%20-%20graph%20theory/Graph%20Theory.ipynb) imply focuses on visualization, further investigation of the intersetion of graph theory and machine learning will be left to the reader. [This article](https://flawnsontong.medium.com/what-is-geometric-deep-learning-b2adb662d91d) is a great starting point.
 
