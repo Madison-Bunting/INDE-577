@@ -1,49 +1,22 @@
 # Q-Learning
 
-Reinforcement learning is learning what to do; how to map situations to actions as to maximize a numerical reward signal. The learner, or agent, is not told which actions to take, but to instead discover which actions yield the most reward by trying them. This type of model can be thought of a specific instance of Markov decision processes (MDP's). The learner and action maker is called the **agent**. The thing that the agent interacts with is called the **environment**, which can be thought of as everything outside the agent. 
+Q-learning is a relatively simple reinforcement learning algorithm, which attempts to assess the value of being in a given state and take a specific action from that state. Observe the following example:
 
-The agent and environment interact in a looping process, where the agent observes some portion of the environment and takes an action, after which, the environment responds and presents a new situation to the agent. More specifically, the agent and environment  interact at each of a sequence of discrete time steps $t = 0, 1, \dots, T$, where $T$ is the **terminal state**. At each time step $t$, the agent recieves some representation of the environment's **state**, $S_t \in \mathcal{S}$, and on that basis selects an **action**, $A_t \in \mathcal{A}$. Here, $\mathcal{S}$ is the set of all possible states and $\mathcal{A}$ is the set of all possible/valid actions. One time step later, and in part as a consequence of action $A_t$, the agents recieves a numerical **reward**, $R_{t+1} \in \mathbb{R}$, and finds itself in a new state, $S_{t+1}\in \mathcal{S}$. The MDP and agent together give rise to a sequence, or **trajectory** typically denoted by $\tau$:
+![image](https://cdn-media-1.freecodecamp.org/images/3JXI06jyHegMS1Yx8rhIq64gkYwSTM7ZhD25)
 
-$$
-\tau = S_0, A_0, R_1, S_1, A_1, R_2, S_2, A_2, R_3, \dots 
-$$
+Let's say there is a robot that wants to get from where it is now to the square marked "End". It can move up, down, left, or right as long as it stays within the environment. However, there are also bombs to avoid and and power that will ensure it has energy to make it to the end. The robot's rewards are as follows:
+- the robot loses 1 point ("energy") at each step (this ensures the robot takes the shortest path/reaches the goal as fast as possible)
+- if the robot steps on a mine, it loses 100 points and the game ends
+- if the robot lands on power, it gains 1 point
+- if the robot reaches the End, it gets 100 points
 
+![image](https://cdn-media-1.freecodecamp.org/images/CcNuUwGnpHhRKkERqJJ6xl7N2W8jcl1yVdE8)
 
-The goal of the agent is to maximize its rewards over a given trajectory starting from state $S_t$. This is called the **return** and is given with the following equation:
+To assess this situation, we create a Q-table, with columns for each action and rows for each state. Each score will be the maximum expected future reward if the robot chooses that action at that state. Thus, the Q-table will need to be updated with teach iteration. At the beginning, all the values in the table are 0.
+![image](https://cdn-media-1.freecodecamp.org/images/AjVvggEquHgsnMN8i4N35AMfx53vZtELEL-l)
+The values of the cells in the Q-table can be calculated using the Bellman Equation. It takes two inputs: state (s) and action (a)
+![image](https://cdn-media-1.freecodecamp.org/images/s39aVodqNAKMTcwuMFlyPSy76kzAmU5idMzk)
+There are different strategies for how the robot can select an action, but let's say it chooses to go right. We can then update the table using this equation as many times as we want (or until the robot dies or reaches the end).
+![image](https://cdn-media-1.freecodecamp.org/images/TnN7ys7VGKoDszzv3WDnr5H8txOj3KKQ0G8o)
 
-$$
-G_{t} = R_{t+1} + \gamma R_{t+2} + \gamma^{2} R_{t+3} \dots, 
-$$
-
-where $\gamma \in [0, 1]$ is the **discount rate**. The discount rate determines the present value of the future rewards. This formula can be written recursively as:
-
-$$
-G_{t} = R_{t+1} + \gamma G_{t+1}. 
-$$
-
-
-
-## Policies and the Q-Function
-
-A **policy** is a mapping from states to probabilities of selecting each possible action. 
-
-$$
-q_{\pi}(s, a) = \mathbb{E}_{\pi}\Big[ G_t | S_t = s, A_t = a\Big] = \mathbb{E}_{\pi}\Big[ G_t + \gamma G_{t+1}| S_t = s, A_t = a\Big]
-$$
-
-Let $Q(S_t, A_t)$ denote the current q-value of the state action pair $(S_t, A_t)$. Through experience, the agent can learn how well our current estimate is (just like we compare predicted labels to true labels in supervised learning). The agent can then update the value of $Q(S_t, A_t)$ after experiencing its future rewards. The following update rule illustrates this updating:
-
-$$
-Q(S, A) \leftarrow Q(S, A) + \alpha \Big[R + \gamma \max_{a}Q(S', a) - Q(S, A) \Big]
-$$
-
-
-https://www.youtube.com/watch?v=wVXXLLT6srY
-https://www.youtube.com/watch?v=__t2XRxXGxI&t=19s
-
-The notebooks in this folder will specifically be executing
-
-https://arxiv.org/pdf/2012.00583.pdf
-https://medium.com/geekculture/reinforcement-machine-learning-the-next-big-step-for-hr-ccc3ea908bd7
-
-
+This explanation was based on [this article](https://www.freecodecamp.org/news/an-introduction-to-q-learning-reinforcement-learning-14ac0b4493cc/). For more information [this video](https://www.youtube.com/watch?v=__t2XRxXGxI&t=19s) provides a more detailed explantion.
