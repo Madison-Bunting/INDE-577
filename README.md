@@ -45,7 +45,7 @@ Topics List:
   - [Q-Learning algorithm](https://github.com/Madison-Bunting/INDE-577/tree/main/reinforcement%20learning/1%20-%20q-learning)
   - [Graph Theory](https://github.com/Madison-Bunting/INDE-577/tree/main/reinforcement%20learning/2%20-%20graph%20theory) - this is not an explicit "algorithm" of reinforcement learning. Rather, this is an area of new development and overlap between a mathematical field and data science
 
-The examples and implementations of algorithms in this repository will specifically focus on the context of Human Resources Analytics, which is a growing area in business representing the use of data science and machine learning in the context of Human Resources.
+The examples and implementations of algorithms in this repository will specifically focus on the context of Human Resources Analytics, which is a growing area in business representing the use of data science and machine learning in the context of Human Resources. More detals on HR analytics can be found [here](https://lesley.edu/article/how-hr-analytics-are-changing-business).
 
 ## Instructor
 Randy Davila, PhD
