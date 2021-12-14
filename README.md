@@ -30,8 +30,8 @@ The topics in this course primarily fall into 3 categories:
 Topics List:
 - [Exploratory Data Analysis](https://github.com/Madison-Bunting/INDE-577/blob/main/Exploring%20a%20New%20Dataset.ipynb) using the primary dataset used in this repository
 - [Supervised Learning](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning)
-  - [Linear Regression](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/1%20-%20gradient%20descent)
-  - [Gradient Descent](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/2%20-%20gradient%20descent)
+  - [Linear Regression](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/0%20-%20linear%20regression)
+  - [Gradient Descent](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/1%20-%20gradient%20descent)
   - [Logistic Regression](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/2%20-%20logistic%20regression)
   - [Perceptron](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/3%20-%20perceptron)
   - [Neural Networks](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/4%20-%20neural%20networks)
