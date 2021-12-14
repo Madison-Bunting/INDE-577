@@ -19,5 +19,5 @@ At a high level, the algorithm starts with a set of k randomly selected centroid
 2. Select k random points from the data as centroids. Calculate the Eucledean Distance from each feature vector to each centroid.
 ![image](https://user-images.githubusercontent.com/89811204/132998845-37a6f436-47b4-4337-a030-72bd9212d59f.png)
 
-4. We next update the centroids in clusters
-5. Report previous steps 3-4 until convergence is reached (no change in the centroids)
+4. Update the centroid for each cluster.
+5. Report previous steps 3-4 until the centroides converge (no change in cetnroids) or the algorithm reaches the maximum number of iterations.
