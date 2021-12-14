@@ -1,12 +1,5 @@
 # K-Means Clustering Algorithm
 
-ch 9
-https://github.com/ageron/handson-ml2/blob/master/09_unsupervised_learning.ipynb
-intro to statistical machine learning ch 10.3
-python machine learning ch 11
-https://github.com/rasbt/python-machine-learning-book-3rd-edition/tree/master/ch11
-http://localhost:8888/notebooks/OneDrive/Documents/Rice/Fall%202021/INDE%20577/10%20-%20K%20means%20clustering.ipynb
-
 ![image](https://user-images.githubusercontent.com/89811204/132998743-c4e77461-5a13-4670-b59d-40d26ee91033.png)
 
 ## What is K-Means Clustering?
