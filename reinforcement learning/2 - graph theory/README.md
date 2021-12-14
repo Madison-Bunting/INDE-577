@@ -1,7 +1,4 @@
 # Graph Theory
-http://localhost:8888/notebooks/OneDrive/Documents/Rice/Fall%202021/INDE%20577/Network%20Analysis/Introduction_to_NetworkX.ipynb
-http://localhost:8888/notebooks/OneDrive/Documents/Rice/Fall%202021/INDE%20577/Network%20Analysis/NetworkX_Neighbors_and_Incident_Edges.ipynb
-http://localhost:8888/notebooks/OneDrive/Documents/Rice/Fall%202021/INDE%20577/Network%20Analysis/NetworkX_Neighbors_and_Incident_Edges.ipynb
 
 **Graphs**, in the context of graph theory, are visual representations *relationships* rather than values or statistics. As a primer, a history lesson:
 
@@ -69,5 +66,5 @@ Graphs can also have fun names!
 
 ![image](https://user-images.githubusercontent.com/89811204/145886971-ec9a068c-be7d-4a1c-9640-1480608aeb0c.png) 
 
-Graph theory is particularly useful in developing Geometric Deep Learning models. Because the [Graph Theory notebook](https://github.com/Madison-Bunting/INDE-577/blob/main/reinforcement%20learning/2%20-%20graph%20theory/Graph%20Theory.ipynb) imply focuses on visualization, further investigation of the intersetion of graph theory and machine learning will be left to the reader. [This article](https://flawnsontong.medium.com/what-is-geometric-deep-learning-b2adb662d91d) is a great starting point.
+Graph theory is particularly useful in developing Geometric Deep Learning models. Because the [Graph Theory notebook](https://github.com/Madison-Bunting/INDE-577/blob/main/reinforcement%20learning/2%20-%20graph%20theory/Graph%20Theory.ipynb) focuses on visualization, further investigation of the intersetion of graph theory and machine learning will be left to the reader. [This article](https://flawnsontong.medium.com/what-is-geometric-deep-learning-b2adb662d91d) is a great starting point.
 

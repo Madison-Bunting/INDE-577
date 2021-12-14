@@ -4,7 +4,9 @@
 
 Unsupervised learning is used to find underlying patterns in data, and involves finding structures and relationships from inputs. This is helpful when we have unlabeled data or aren't sure which outputs are meaningful. There is a set of data that is **unlabeled** to learn from, with the goal of identifying patterns in that data. In contrast to supervised learning, which focuses on labels, unspervised learning focuses on **features** of the data. 
 
-The result of an unsupervised learning model is to place observations into specific clusters (clustering), or to create rules to identify associations between variables (association). With large datasets, it is important to keep the datasets used for training as small and efficient as possible. Unsupervised learning algorithms are also able to utilize "dimensionality reduction" to represent the information in a dataset with only a portion of the actual content. Unsupervised learningallows you to perform more complex processing tasks compared to supervised learning, and is in some ways more powerful because it can identify patterns within a dataset not visible to a human observer, but it can be more unpredictable compared with other deep learning and reinforcement learning methods. 
+The result of an unsupervised learning model is to place observations into specific clusters (clustering), or to create rules to identify associations between variables (association). With large datasets, it is important to keep the datasets used for training as small and efficient as possible. Unsupervised learning algorithms are also able to utilize "dimensionality reduction" to represent the information in a dataset with only a portion of the actual content, and these are sometimes implemented as part of pre-processing. 
+
+Unsupervised learning allows data scientists to perform more complex processing tasks compared to supervised learning. In this sense, it is more powerful because it can identify patterns within a dataset not visible to a human observer, however unsupervised learning can also be more unpredictable compared with other deep learning and reinforcement learning methods. 
 
 Variables:
 - features
