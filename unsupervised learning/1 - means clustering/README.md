@@ -10,9 +10,9 @@ http://localhost:8888/notebooks/OneDrive/Documents/Rice/Fall%202021/INDE%20577/1
 ![image](https://user-images.githubusercontent.com/89811204/132998743-c4e77461-5a13-4670-b59d-40d26ee91033.png)
 
 ## What is K-Means Clustering?
-In the k-means clustering algorithm, we group the data in to k groups, or clusters, such that all the data points in the same cluster are as similar to each other as possible. The data points that augment the clusters are visibly different from those points. Points cana only belong to one group.
+K-means clustering is one of the most popular unsupervised machine learning algorithms. The objective of the algorithm is to group datapoints with certain similarities together into **clusters** to find underlying patterns. K-means clustering does this by looking for a pre-set number (k) of clusters in that dataset. Points are only able to be part of one cluster, and each cluster has a "centroid" that roughly averages the data and represents the center of the cluster. Data points are then allocated to each of the clusters by assigning them to clusters in such a way that minimizes each cluster's sum of squares (often using Euclidean distance).
 
-To calculate the simimlarity between data points, we use distances like Euclidean distance as a reference. Each group has a centroid (central point) and they are thought of as teh representative of the group.
+At a high level, the algorithm starts with a set of k randomly selected centroids, then iteratively optimizes the locations of those centroids until there is effectively no change in the centroids between iterations (meaning the clustering was successful) or the algorithm has completed the defined number of iterations.
  
 ## How does K-Means Clustering work?
 1. Choose the number of clusters, k
