@@ -33,7 +33,7 @@ Compared with the original dataset, one can observe that it is not an exact repr
 
 It turns out, the vector capable of capturing the maximum variance of the data minimizes the distance required to move the data as a projection onto the vector.
 
-A more complicated defition of PCA would be that it is an orthogonal transformation that takes the data to a new coordinate system such that the greatest variance by some scalar projection of the data comes ot lie on the first coordinate (the first principal component), the second greatest variance comes to lie on the second coordinate, etc.
+A more complicated defition of PCA would be that it is an orthogonal transformation that takes the data to a new coordinate system such that the greatest variance by some scalar projection of the data comes to lie on the first coordinate (the first principal component), the second greatest variance comes to lie on the second coordinate, etc.
 
 The math underlying PCA is quite complicated, but at a high level:
 Consider an n x p data matrix X, where each of the rows represents a different repetition of the experiment and each of the columns gives a particular kind of feature. the k-th component can be found by subtracting the first k principal components from X as shown below:
@@ -48,4 +48,3 @@ i.e. the weight vectors are the eigenvectors of X^TX. The full principal compone
 
 
 This explanation was heavily based on [this article from Medium](https://medium.com/@mallrishabh52/principal-components-analysis-7f6ff559cd83) and [this article from Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis). 
-
