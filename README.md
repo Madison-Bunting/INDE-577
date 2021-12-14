@@ -28,6 +28,7 @@ The topics in this course primarily fall into 3 categories:
 ![image](https://user-images.githubusercontent.com/89811204/132995084-efa2c299-a6e9-4f38-ab14-26ef970736bc.png)
 
 Topics List:
+- [Exploratory Data Analysis](https://github.com/Madison-Bunting/INDE-577/blob/main/Exploring%20a%20New%20Dataset.ipynb) of the primary dataset used in this repository
 - [Supervised Learning](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning)
   - [Linear Regression](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/1-%20linear%20regression)
   - [Gradient Descent](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/2%20-%20gradient%20descent)
