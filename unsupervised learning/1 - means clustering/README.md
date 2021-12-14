@@ -26,10 +26,10 @@ The algorithm outputs 1) the centroids of the k clusters, which can be used to l
     - **Silhouette coefficient:**
       The silhouette coefficient is about finding a model with well-defined clusters. This value is calculated by taking the mean distance between a sample and all other points in the same cluster as well as its distance from all other points in the nearest cluster. The equation for a single sample is below:
     
-    ![image](https://user-images.githubusercontent.com/89811204/146045653-2898b2fa-6f54-4a50-a617-f8efb3f07ef5.png)
+          ![image](https://user-images.githubusercontent.com/89811204/146045653-2898b2fa-6f54-4a50-a617-f8efb3f07ef5.png)
 
-      Using the equation above, calculate the silhouette coefficient for all the clusters. A higher value indicates the sample is well matched to its own cluster and poorly matched to neighboring clusters. 
-    - Other ways to choose k:: cross-validation, information criteria, information theoretic jump method, G-means algorithm
+        Using the equation above, calculate the silhouette coefficient for all the clusters. A higher value indicates the sample is well matched to its own cluster and poorly matched to neighboring clusters. 
+    - Other ways to choose k: cross-validation, information criteria, information theoretic jump method, G-means algorithm
 3. Select k random points from the data as centroids. 
 4. Calculate the Eucledean Distance from each feature vector to each centroid and assign each datapoint to the closest cluster centroid.
 
