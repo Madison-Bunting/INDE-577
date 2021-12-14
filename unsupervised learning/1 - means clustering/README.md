@@ -35,18 +35,17 @@ The algorithm outputs 1) the centroids of the k clusters, which can be used to l
 
 ![image](https://user-images.githubusercontent.com/89811204/132998845-37a6f436-47b4-4337-a030-72bd9212d59f.png)
 
-    The algorithm in the attached notebook uses the Euclidean Distance, but there are two other ways of calculating diatance that are used in machine learning algorithms: 
-    - **Cosine distance:**
-      Determines the cosine of the angle between the point vectors of two points in n dimensional space. The closer the point vectors are by angle, the higher the Cosine Similarity. The equation is below:
+   The algorithm in the attached notebook uses the Euclidean Distance, but there are two other ways of calculating diatance that are used in machine learning algorithms: 
+     
+   - **Cosine distance:** determines the cosine of the angle between the point vectors of two points in n dimensional space. The closer the point vectors are by angle, the higher the Cosine Similarity. The equation is below:
     
-    ![image](https://user-images.githubusercontent.com/89811204/146046597-0f8d9449-30d1-4bc7-9560-1b271cff737b.png)
+   ![image](https://user-images.githubusercontent.com/89811204/146046597-0f8d9449-30d1-4bc7-9560-1b271cff737b.png)
 
-    - **Manhattan distance**
-    Total sum of the difference between the x-coordinates and the y-coordinates. The equation is below: 
+   - **Manhattan distance** total sum of the difference between the x-coordinates and the y-coordinates. The equation is below: 
     
-    ![image](https://user-images.githubusercontent.com/89811204/146046963-1f7a89a4-2a11-4466-b756-5bb1960d4c44.png)
+      ![image](https://user-images.githubusercontent.com/89811204/146046963-1f7a89a4-2a11-4466-b756-5bb1960d4c44.png)
 
-      The Manhattan distance is so-called because it measures the distance between two points in a city if you could only travel along orthogonal city blocks.
+   The Manhattan distance is so-called because it measures the distance between two points in a city if you could only travel along orthogonal city blocks.
 4. Update the centroid for each cluster by taking the mean of all the datapoints assigned to that centroid's cluster.
 5. Report previous steps 3-4 until the centroids converge (no change in cetnroids), datapoints stop moving between clusters, or the algorithm reaches the maximum number of iterations. Note that the algorithm may converge on a _local_ optimum, so it is important to run the algorithm several times. 
 
