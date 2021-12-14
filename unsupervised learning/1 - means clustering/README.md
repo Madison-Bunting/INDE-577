@@ -65,7 +65,7 @@ One potential solution is to use a larger number of clusters, but there is also 
 
 The plot on the left is normal k-means, without generalization. This results in a non-intuitive cluster boundary. The plot in the middle allows for different cluster widths, which results in more intuitive clusters of different sizes. Finally, the right plot further allows for different widths per dimension, which results in and elliptical rather than circular shape. Depending on the dataset, these could improve the results.
 
-Other common issues with k-means clustering include that it is dependent on the initial values (so it must be run several times with different initial centroid values), and the centroidsd can be dragged by outliers in the data.
+Other common issues with k-means clustering include that it is dependent on the initial values (so it must be run several times with different initial centroid values), and the centroids can be dragged by outliers in the data.
 
 The above information was largely based on [this](https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/) article, which can be referenced for further reading.
 
