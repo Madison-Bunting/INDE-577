@@ -35,5 +35,5 @@ Or the algorithm also struggles when the real clusters are of different densitie
 
 One potential solution is to use a larger number of clusters, but there is also a risk of being so overly specific that the data loses any meaning.
 
-The above information was largely based on [this](s://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/) article, which can be referenced for further reading.
+The above information was largely based on [this](https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/) article, which can be referenced for further reading.
 
