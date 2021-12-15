@@ -37,7 +37,7 @@ Choose an activation function
 
 - [Heaviside step function](https://en.wikipedia.org/wiki/Heaviside_step_function): triggered above a certain value of neuron output; otherwise it outputs zero
 - Sign function: outputs +1 or -1 depending whether the neuron output is greater than 0 or not
-- Sigmoid: S-curve that outputs a value between 0 and 1
+- Sigmoid: S-curve that outputs a value between 0 and 1 (using [Logistic Regression](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/2%20-%20logistic%20regression))
 
 **3. Update Weights**
 
