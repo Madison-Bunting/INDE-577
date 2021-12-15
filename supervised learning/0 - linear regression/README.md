@@ -9,7 +9,9 @@ Linear regression has been around for over 200 years and has been studied from e
 - simple linear regression: when there is a single input variable (x)
 - multiple linear regression: when there are multiple input variables
 
-[Linear regression](https://en.wikipedia.org/wiki/Linear_regression) is a linear equation that combines a specific set of input values (x) to a predicted output (y). Both input and output variables are numeric. The linear equation assigns one scale factor to each input value (often denoted "m"), and a constant (often denoted "b") that gives the line an additional degree of freedom because it can move up and down on a 2D plot. Thus, we have the familiar equation from algebra: **y = mx + b**. In the image above, the red line is called the **line of best fit** that is described by the previous equation.
+[Linear regression](https://en.wikipedia.org/wiki/Linear_regression) is a linear equation that combines a specific set of input values (x) to a predicted output (y). Both input and output variables are numeric. The linear equation assigns one scale factor to each input value (often denoted "m"), and a constant (often denoted "b") that gives the line an additional degree of freedom because it can move up and down on a 2D plot. Thus, we have the familiar equation from algebra: **y = mx + b** (below). In the image above, the red line is called the **line of best fit** that is described by this equation.
+
+![image](https://camo.githubusercontent.com/9827742a7612db790a7fe0c4b9c9ba59989cd6a1ed5e689f96a55a38246f374a/68747470733a2f2f7777772e616c706861726974686d732e636f6d2f77702d636f6e74656e742f75706c6f6164732f313135362f736c6f70652d696e746572636570742d76732d6c696e6561722d72656772657373696f6e2d6571756174696f6e732e6a7067)
 
 In higher dimensions, the line is called a plane or "hyperplane", and simply adds additional terms to the equation, as written below:
 
