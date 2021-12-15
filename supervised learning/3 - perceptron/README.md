@@ -14,7 +14,7 @@ Perceptrons are trained in three phases:
   
 **2. Predict Results**
 
-![image](https://akashsethi24.files.wordpress.com/2017/09/perceptron1.png?resize=529%2C347)
+![image](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/13UpdymQx-C1tBKRnfD7eOg.gif)
 
 The perceptron learning rule states that the algorithm would automatically learn the optimal weight coefficients. The input features are then multiplied with these weights in a weighted sum to determine if the neuron "fires" or not (returns 1 if positive, 0 otherwise, or 1 and -1).
 
