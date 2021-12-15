@@ -1,12 +1,8 @@
 # Linear Regression
 
 ![image](https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/2.3.png)
-ch 4 pg 167
-https://github.com/ageron/handson-ml2/blob/master/04_training_linear_models.ipynb
-https://scikit-learn.org/stable/modules/linear_model.html
-intro to statistical macnine learning ch 3
-python machine learning ch 10
-https://github.com/rasbt/python-machine-learning-book-3rd-edition/tree/master/ch10
+
+Linear regression is a classic supervised model that dates back over 200 years. Finding a good rough linear fit to a set of points was performed by [Legendre](https://en.wikipedia.org/wiki/Adrien-Marie_Legendre) (1805) and [Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) to predict planetary movement.
 
 Linear regression has been around for over 200 years and has been studied from every possible. Often different angles have been given different names:
 - linear model: a model that assumes a linear relationship between input variables (x) and a single output variable (y), with the goal of calculating y from a linear combination of the input variables (x)
@@ -19,12 +15,11 @@ In higher dimensions, the line is called a plane or "hyperplane", and simply add
 
 ![image](https://user-images.githubusercontent.com/89811204/146124493-bc21822d-f66d-4a49-8767-cf8d449e4f18.png)
 
-
 When the coefficient of one of these terms becomes zero, it effectively removes the influence of the input variable on the model.
 
 Below are some sample techniques to prepare a linear regression model:
 - **Simple linear regression:** The model has a single input and uses statistics to estimate coefficients. This requires computing statistical properties like means, standard deviations, correlations, and variance. 
-- **Ordinary least squares** ("or ortinary least squares linear regression" or "least squares regression"): This is the most common technique. When there is more than one input, OSLR can estimate the values of the coefficients. This method seeks to minimize the "sum of the squared residuals". This means that given a regression line through the data, calculate the distance from each datapoint to the regression point, square it, and sum all of the squared errors together. This approach treats the data as a matrix and uses linear algebra to estimate the optimal values for the coefficients. It requires memory to fit the data and perform matrix operations, but is very fast to calculate.
+- **Ordinary least squares** ("or ortinary least squares linear regression" or "least squares regression"): This is the most common technique. When there is more than one input, OSLR can estimate the values of the coefficients. The [Gauss-Markove theorem](https://en.wikipedia.org/wiki/Gauss%E2%80%93Markov_theorem) ensures this method minimizes the "sum of the squared residuals". This means that given a regression line through the data, calculate the distance from each datapoint to the regression point, square it, and sum all of the squared errors together. This approach treats the data as a matrix and uses linear algebra to estimate the optimal values for the coefficients. It requires memory to fit the data and perform matrix operations, but is very fast to calculate.
 - **Gradient Descent:** This approach is further discussed [elsewhere](https://github.com/Madison-Bunting/INDE-577/blob/main/supervised%20learning/1%20-%20gradient%20descent/README.md) in this repository, but the short description is that this technique starts with random values for the coefficients, then iteratively works to minimize the error of the model.
 - **Regularization:** These models seek to minimize the sum of the squared error of the model on training data using ordinary least squares, as well as reducing the complexity of the model. These methods are effective when input values have collinearity in input values and ordinary least squares would overfit the training data.
   - [Lasso Regression](https://en.wikipedia.org/wiki/Lasso_(statistics)) (aka L1 regularization): modifies ordinary least squares to also minimize the absolute sum of the coefficients
