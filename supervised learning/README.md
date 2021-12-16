@@ -16,12 +16,12 @@ Types of supervised learning algorithms:
   - goal: assign each input value and assign it to a class or category that it fits based on the training data
   - predicted output is a list of tags or values
   - e.g. spam filters, with tages "spam" or "not spam"
-  - popular classificaiton algorithms: linear classifiers, K nearest neighbor, support vector machines, decision trees, random forest
+  - popular classificaiton algorithms: linear classifiers, logistic regression, K nearest neighbor classifier, support vector machines, decision tree classifier, random forest classifier
 - **regression**
   - goal: find a relationship between dependent and independent variables
   - predicted output is a target numeric value, given a set of features, and is represented by a line of best fit (for a model with more than two features, this is often a hyperplane)
   - e.g. price of a car, given: mileage, age, brand, make, model, etc
-  - popular regression algorithms: linear regression, logistic regression, polynomial regression
+  - popular regression algorithms: linear regression, polynomial regression, K neaerest neighbor regression, decision trees regression, support vector regression
 
 List of Supervised Learning Algorithms in this repository:
   - [Linear Regression](https://github.com/Madison-Bunting/INDE-577/tree/main/supervised%20learning/0%20-%20linear%20regression)
