@@ -23,6 +23,7 @@ Data Science tools used in this course:
   - [Numpy](https://numpy.org/doc/stable/)
   - [Matplotlib](https://matplotlib.org/stable/contents.html)
   - [scikit-learn](https://scikit-learn.org/stable/user_guide.html)
+  - [Tensorflow](https://www.tensorflow.org/api_docs/python/tf/all_symbols)
 
 The topics in this course primarily fall into 3 categories: 
 ![image](https://user-images.githubusercontent.com/89811204/132995084-efa2c299-a6e9-4f38-ab14-26ef970736bc.png)
