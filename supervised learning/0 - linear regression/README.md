@@ -71,4 +71,4 @@ There are also a few evaluation metrics for regression:
 ![image](https://editor.analyticsvidhya.com/uploads/69457rmse.png)
 
 
-This was heavily baesd on [this article](https://www.analyticsvidhya.com/blog/2021/05/all-you-need-to-know-about-your-first-machine-learning-model-linear-regression/).
+The above information was largely baesd on [this article](https://www.analyticsvidhya.com/blog/2021/05/all-you-need-to-know-about-your-first-machine-learning-model-linear-regression/), which can be referenced for further reading.
